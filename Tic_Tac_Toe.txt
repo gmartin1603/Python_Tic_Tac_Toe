@@ -1,0 +1,11 @@
+'''
+Name:
+  Tic_Tac_Toe
+
+Description:
+  Just another python powered Tic Tac Toe app. Game should start with 'X' and alternate turns. Previous moves should not be overwritten. The game should be consistantly playable and not crash.
+
+  Maintainer:
+    georgemartin1603@yahoo.com
+
+__version__ = 1.0
